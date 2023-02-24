@@ -21,4 +21,9 @@ As always,
 1. Clone/download repo and extract it somewhere
 2. Open cmd there (f.e. by typing cmd into directory path bar)
 3. Enter `npm i`
-4. 
+4. Open `Run.bat` to check if program works
+
+# Adding to autostart
+
+1. Right click `Run.bat` in explorer => send to => create shortcut (desktop)
+2. Open Run (Win+R), type `shell:startup` and move shortcut from desktop to this startup folder.
